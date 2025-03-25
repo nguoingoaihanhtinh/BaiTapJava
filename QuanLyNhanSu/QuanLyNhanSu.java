@@ -1,4 +1,4 @@
-package BT3.QuanLyNhanSu;
+package QuanLyNhanSu;
 import java.util.ArrayList;
 import java.util.Scanner;
 

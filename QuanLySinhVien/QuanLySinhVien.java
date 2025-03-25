@@ -1,4 +1,4 @@
-package BT3.QuanLySinhVien;
+package QuanLySinhVien;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
